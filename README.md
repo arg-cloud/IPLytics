@@ -327,4 +327,3 @@ Important: Predictions are experimental estimates. Validation performance is lim
 
 
 The objective of IPLytics is to explore how historical cricket data, feature engineering and machine learning can be combined to estimate IPL match outcomes through an interactive application.
-
